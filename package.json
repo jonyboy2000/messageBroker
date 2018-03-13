@@ -1,0 +1,16 @@
+{
+  "name": "messagesbroker",
+  "version": "1.0.0",
+  "description": "this is test app for work with messages in app system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rk",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "express": "^4.16.3",
+    "pg": "^7.4.1"
+  }
+}
